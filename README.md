@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Joisonferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joisonferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joisonferreira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joisonferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joisonferreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ícone_linguagem_java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -11,8 +11,8 @@
   <img align="center" alt="ícone_html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ícone_css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ícone_linguagem_python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDKys104-3PXh8k78BY9Zz0HKmVvJ9Nn7JFziXuip9Y91ULkYsyv92e6bygMcYKYZHP8&usqp=CAU">
+  <img align="center" alt="ícone_Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Imagem_garoto" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDKys104-3PXh8k78BY9Zz0HKmVvJ9Nn7JFziXuip9Y91ULkYsyv92e6bygMcYKYZHP8&usqp=CAU">
 </div>
   
   ##
